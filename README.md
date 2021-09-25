@@ -1,6 +1,6 @@
 # LFT
 Local File Transfer Through WiFi
-
+<img src="https://github.com/Ba-hub/LFT/blob/main/LFT.jpg" align="center"/>
 # Requirements 
 ```
 pyfiglet which you can install by pip3 
